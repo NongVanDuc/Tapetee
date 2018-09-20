@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "464416171107",
+    "firebase_url": "https://tapetee-58b30.firebaseio.com",
+    "project_id": "tapetee-58b30",
+    "storage_bucket": "tapetee-58b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464416171107:android:a5cb3da24b9911c2",
+        "android_client_info": {
+          "package_name": "com.vanduc.tapetee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464416171107-q06op5l71rt6rdq8r51a6hrev20p3em7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanduc.tapetee",
+            "certificate_hash": "effee1f208217677e84575d5d0339c7c08389149"
+          }
+        },
+        {
+          "client_id": "464416171107-9aa2s7mc9p12megn12vipaqoeug98hba.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "464416171107-9aa2s7mc9p12megn12vipaqoeug98hba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEkBnGFELOwH9MCAT1bjlFvrPBsGpcZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464416171107-9aa2s7mc9p12megn12vipaqoeug98hba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
